@@ -1,0 +1,25 @@
+
+.copyr {
+    display: none;
+}
+
+@media screen and (max-width: 576px) {
+    .copy {
+        display: none;
+    }
+
+    .copyr {
+        display: block;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
